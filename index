@@ -1,0 +1,71 @@
+<html>
+ 
+    <body background= "green">
+     
+    <table border="1" align="center" cellpadding="10" width="800">
+    <tr>
+        <th colspan = "7" bgcolor = "green"> Curriculum para jugador de League of Legends </ th>
+    </tr>
+     
+    <tr>
+             <th bgcolor = "green"> Nombre: </ th>
+             <td> Humberto José Orellana Colindres </ td>
+             <th bgcolor = "green"> Edad: </ th>
+        <td>20</td>
+             <th bgcolor = "green"> Posición: </ th>
+             <td> ADC </ td>
+                <td rowspan="3" width="100"<p><img border="0" src="https://scontent.fgua6-1.fna.fbcdn.net/v/t39.30808-6/218050223_4064444496966944_1008978586324281738_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-VDZgzZojcUAX9wPljk&_nc_ht=scontent.fgua6-1.fna&oh=00_AT94VOzOYslnmbufES6xqj30KQs8YCwVc1Yx6JEvxTYBDg&oe=62E02B2C"/>
+    </p></td>
+    </tr>
+     
+    <tr>
+             <th bgcolor = "green"> Fecha de nacimiento: </ th>
+        <td>15/01/2002</td>
+             <th bgcolor = "green"> Nacionalidad </ th>
+             <td> Guatemalteca </ td>
+             <th bgcolor = "green"> Nombre de Cuenta </ th>
+             <td> I Humberto I </ td>
+    </tr>
+     
+    <tr>
+             <th bgcolor = "green"> Peak Elo </ th>
+             <td> Master 16PL </ td>
+             <th bgcolor = "green"> Equipos anteriores </ th>
+             <td> Proxus Gaming </ td>
+    </tr>
+     
+    <tr>
+               <th bgcolor = "green"> Aficiones: </ th>
+               <td> Leer, escribir y jugar otros videojueegos </ td>
+               <th bgcolor = "green"> Correo electrónico: </ th>
+         <td colspan="2"<p><a  href="humbertorellana15@gmail.com">humbertorellana15@gmail.com </a></p></td>
+    </tr>
+     
+    <tr>
+               <th height = "160" bgcolor = "green"> Experiencia personal: </ th>
+         <td colspan="6">
+           <p> Campón del torneo quincenal de Clash 4 veces y 6 veces segundo lugar.</ p>
+           <p> El mejor jugador en la historia de Jalapa </ p>
+           <p> Top 1 por medio año con Xayah. </ p>
+        </td>
+    </tr>
+     
+    <tr>
+               <th height = "160" bgcolor = "green"> Campeones: </ th>
+         <td colspan="6">
+             <p> Conocimiento de todos los ADC del juego y de cada Matchup.</ p>
+             <p> Maestría con más de 7 campeones distintos entre sí y para distintas composiciones. </ p>
+             <p> Top 3 campeones: Xayah, Samira, Ashe </ p>
+    </tr>
+     
+    <tr>
+               <th height = "160" bgcolor = "green"> Habilidades como persona </ th>
+         <td colspan="6">
+             <p> Líder y excelente toma de decisiones bajo presión y alto conocimiento de Macrogame.  </ p>
+             <p> Agradable tanto dentro del juego como fuera del mismo.  </ p>
+             <p> En contra de la toxicidad y peleas entre jugadores de la liga</ p>
+    </tr>
+     
+    </body>
+     
+    </html>
